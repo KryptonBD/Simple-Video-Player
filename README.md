@@ -5,7 +5,7 @@
  
  What's new here are
  
- -worked on Full Screen, 
+ -workes in Full Screen, 
  
  -different control
  
