@@ -112,6 +112,7 @@ body {
 .progress__filled {
   width: 30%;
   background: #F44336;
+  border-radius: 0 5px 5px 0;
   flex: 0;
   flex-basis: 30%;
 }
